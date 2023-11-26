@@ -8,5 +8,5 @@
 #### Require Proper presentation of the Project with proper Inference, Coding, and Output Analysis.
 #### Tools Can be Used - Python, Tableau, SQL, Excel.
 #### Report of the Entire Case Study should be properly Built-in Word Format.
-##### To view Jupyter Notebook click [here](url)
+##### To view Jupyter Notebook click [here](https://github.com/SrutiDutta/Capstone-project/blob/main/Code.ipynb)
 ##### To view Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sruti2331/viz/makaan_pred_pricevizz/Dashboard1?publish=yes)
